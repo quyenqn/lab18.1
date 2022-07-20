@@ -1,0 +1,42 @@
+
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(pc1.jfif);
+    height: 200px;
+    
+
+}
+
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(pc2.jfif);
+    height: 200px;
+    width: 376px;
+
+}
+
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(pc3.jfif);
+    height: 200px;
+    width: 376px;
+
+}
+
+.carousel-inner{
+    height: 900px;
+    
+
+}
+.carousel-indicators{
+    height: 700px;
+}
+.carousel-control-next{
+    height: 100%;
+}
+
+
+
